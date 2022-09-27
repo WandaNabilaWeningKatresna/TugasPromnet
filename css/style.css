@@ -57,3 +57,24 @@ nav ul li a{
     margin: auto;
     background: #fff;
 }
+.kanan{
+    width: 29%;
+    float: right;
+    margin: auto;
+    background: white;
+    list-style: none;
+}
+
+.kanan a{
+    text-decoration: none;
+    line-height: 40px;
+}
+footer{
+    background: #1A224B;
+    line-height: 2%;
+    width: 96%;
+    color:#fff;
+    margin-top: 1%;
+    margin: 0 auto;
+    float: left;
+}
